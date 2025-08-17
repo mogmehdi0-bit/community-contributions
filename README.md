@@ -16,7 +16,7 @@ Here are some of my most notable or recent contributions.
 
 * **Repository:** `[Link to the project's GitHub repository]`
 * **Contribution:** `[Describe your contribution in a sentence or two. E.g., "Fixed a critical bug that caused a memory leak." or "Added a new feature for data visualization.]`
-* **Pull Request:** `[Link to your specific Pully Request]`
+* **Pull Request:** `[Link to your specific Pull Request]`
 * **Date:** `[Date of merge or submission]`
 
 ### **2. `[Another Project Name]`**
