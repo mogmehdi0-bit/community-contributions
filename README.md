@@ -53,5 +53,5 @@ A detailed list of all my contributions, sorted by project.
 
 * **Copy & Paste:** Copy the code above and save it as `README.md` in your repository.
 * **Fill in the Blanks:** Replace all the bracketed placeholders `[ ... ]` with your specific information.
-* **Update Regularly:** Keep this file updated as you make more contributions to ensure it's a current and accurate reflection of your work and etc
+* **Update Regularly:** Keep this file updated as you make more contributions to ensure it's a current and accurate reflection of your work.
 * 
