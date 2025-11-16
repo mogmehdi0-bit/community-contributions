@@ -1,8 +1,8 @@
 # community-contributions
 This repository is for logging and displaying my contributions to open-source projects. Here, I document the Pull Requests I've submitted to other projects, as well as my ideas and collaborations within the developer community
 # My Open Source Contributions
-best
-**"Alone we can do so little; together we can do so much." - Helen Keller**
+
+**"Alne we can do so little; together we can do so much." - Helen Keller**
 Welcome to my personal record of contributions to the open-source community. This repository serves as a portfolio of my collaborative work, showcasing how I've engaged with projects beyond my own. My aim is to highlight my commitment to learning from, and giving back to, the global developer community.
 --
 ## 🚀 Recent Highlights
