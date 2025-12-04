@@ -5,8 +5,8 @@ This repository is for logging and displaying my contributions to open-source pr
 **"Alne we can do so little; together we can do so much." - Helen Keller**
 Welcome to my personal record of contributions to the open-source community. This repository serves as a portfolio of my collaborative work, showcasing how I've engaged with projects beyond my own. My aim is to highlight my commitment to learning from, and giving back to, the global developer community.
 --
-## 🚀 Recent Highlights
- wood
+## 🚀 ecent Highlights
+ 
 Heres some of my most notable or recent contributions.
 
 ### **1. `[Project Name]`**
