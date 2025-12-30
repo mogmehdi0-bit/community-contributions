@@ -9,7 +9,7 @@ Welcome to my personal record of contributions to the open-source community. Thi
 Heres some of my most notable or recent contributions.
 
 ### **1. `[Project Name]`**
-hypr
+
 * **Repository:** `[Link to the project's GitHub repository]`
 * **Contribution:** `[Describe your contribution in a sentence or two. E.g., "Fixed a critical bug that caused a memory leak." or "Added a new feature for data visualization.]`
 * **Pull Request:** `[Link to your specific Pull Request]`
